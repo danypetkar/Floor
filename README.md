@@ -272,7 +272,7 @@ source '0' for webcam
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Floor/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Advantages
